@@ -12,9 +12,9 @@ const Header = props => (
           <Image />
         </div>
         <div style={{ padding: '4rem' }}>
-          <h1>Hi people</h1>
+          <h1>Welcome to Insightful Buzz</h1>
           <p>
-            Welcome to your new Gatsby site. <br /> Now go build something
+            Backlinks are just the begining <br /> Now go build something
             great.
           </p>
           <Button as={Link} to="/page-2/" style={{ textDecoration: 'none' }}>
